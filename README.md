@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukino2772\&show_icons=true)
 
 ---
 
