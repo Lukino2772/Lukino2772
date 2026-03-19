@@ -36,35 +36,16 @@
 
 ---
 
-## 📂 Projects
-
-### 🔹 Hotel Management System (C++)
-
-* OOP-based system for managing rooms and customers
-* Features menu navigation and file handling
-
-### 🔹 Flask Web App
-
-* Stores form data using Flask-SQLAlchemy
-* Backend-focused project with database integration
-
-### 🔹 Embedded Systems Projects
-
-* IoT projects using ESP boards
-* Sensor integrations and automation
-
----
-
 ## 📊 GitHub Stats
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukino2772\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukino2772\&show_icons=true)
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-* 💼 LinkedIn: your_linkedin_here
+* 📧 Email: [0ushvelidze@gmail.com](mailto:0ushvelidze@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/luka-shvelidze](www.linkedin.com/in/luka-shvelidze)
 
 ---
 
